@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerViewApp3</string>
+    <string name="heroes_name" />
+    <string name="nim" />
+    <string name="hp" />
+    <string name="object_received" />
+</resources>
